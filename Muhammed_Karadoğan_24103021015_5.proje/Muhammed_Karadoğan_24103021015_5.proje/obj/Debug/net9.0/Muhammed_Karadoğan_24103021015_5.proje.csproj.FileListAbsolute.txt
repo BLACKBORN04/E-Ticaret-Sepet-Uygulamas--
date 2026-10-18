@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Muhammed_Karadoğan_24103021015_5.proje\Muhammed_Karadoğan_24103021015_5.proje\obj\Debug\net9.0\Muhammed_Karadoğan_24103021015_5.proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Muhammed_Karadoğan_24103021015_5.proje\Muhammed_Karadoğan_24103021015_5.proje\obj\Debug\net9.0\Muhammed_Karadoğan_24103021015_5.proje.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Muhammed_Karadoğan_24103021015_5.proje\Muhammed_Karadoğan_24103021015_5.proje\obj\Debug\net9.0\Muhammed_Karadoğan_24103021015_5.proje.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Muhammed_Karadoğan_24103021015_5.proje\Muhammed_Karadoğan_24103021015_5.proje\obj\Debug\net9.0\Muhammed_Karadoğan_24103021015_5.proje.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Muhammed_Karadoğan_24103021015_5.proje\Muhammed_Karadoğan_24103021015_5.proje\bin\Debug\net9.0\Muhammed_Karadoğan_24103021015_5.proje.exe
+C:\Users\Lenovo\source\repos\Muhammed_Karadoğan_24103021015_5.proje\Muhammed_Karadoğan_24103021015_5.proje\bin\Debug\net9.0\Muhammed_Karadoğan_24103021015_5.proje.deps.json
+C:\Users\Lenovo\source\repos\Muhammed_Karadoğan_24103021015_5.proje\Muhammed_Karadoğan_24103021015_5.proje\bin\Debug\net9.0\Muhammed_Karadoğan_24103021015_5.proje.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Muhammed_Karadoğan_24103021015_5.proje\Muhammed_Karadoğan_24103021015_5.proje\bin\Debug\net9.0\Muhammed_Karadoğan_24103021015_5.proje.dll
+C:\Users\Lenovo\source\repos\Muhammed_Karadoğan_24103021015_5.proje\Muhammed_Karadoğan_24103021015_5.proje\bin\Debug\net9.0\Muhammed_Karadoğan_24103021015_5.proje.pdb
+C:\Users\Lenovo\source\repos\Muhammed_Karadoğan_24103021015_5.proje\Muhammed_Karadoğan_24103021015_5.proje\obj\Debug\net9.0\Muhammed_Karadoğan_24103021015_5.proje.dll
+C:\Users\Lenovo\source\repos\Muhammed_Karadoğan_24103021015_5.proje\Muhammed_Karadoğan_24103021015_5.proje\obj\Debug\net9.0\refint\Muhammed_Karadoğan_24103021015_5.proje.dll
+C:\Users\Lenovo\source\repos\Muhammed_Karadoğan_24103021015_5.proje\Muhammed_Karadoğan_24103021015_5.proje\obj\Debug\net9.0\Muhammed_Karadoğan_24103021015_5.proje.pdb
+C:\Users\Lenovo\source\repos\Muhammed_Karadoğan_24103021015_5.proje\Muhammed_Karadoğan_24103021015_5.proje\obj\Debug\net9.0\Muhammed_Karadoğan_24103021015_5.proje.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Muhammed_Karadoğan_24103021015_5.proje\Muhammed_Karadoğan_24103021015_5.proje\obj\Debug\net9.0\ref\Muhammed_Karadoğan_24103021015_5.proje.dll

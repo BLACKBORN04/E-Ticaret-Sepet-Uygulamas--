@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Muhammed_Karadoğan_24103021015_5.proje/1.0.0": {
+        "runtime": {
+          "Muhammed_Karadoğan_24103021015_5.proje.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Muhammed_Karadoğan_24103021015_5.proje/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
